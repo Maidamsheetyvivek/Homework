@@ -1,1 +1,2 @@
 write a new program about local variable.
+int a = 10;
