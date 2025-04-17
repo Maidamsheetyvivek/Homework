@@ -1,2 +1,5 @@
 write a new program about local variable.
+<<<<<<< HEAD
 int b = 20;
+
+int a = 10;
